@@ -1,4 +1,4 @@
-Store the picture of all web event
+Store the picture of all Genshin web event
 =======================================
 |  開始時間   |   結束時間  | 活動名稱 |
 | :--------: | :--------: | :-----: |
