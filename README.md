@@ -1,5 +1,6 @@
 Store the picture of all Genshin web event
 =======================================
+![](特邀「名偵探」/桌布1.jpg)
 <details>
   <summary><h2>2021-2022</h2></summary>
 
