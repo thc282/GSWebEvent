@@ -1,4 +1,5 @@
 Store the picture of all Genshin web event
+儲存以往原神網頁活動資源(主要桌布)
 =======================================
 ![](2023/特邀「名偵探」/桌布1.jpg)
 <details>
